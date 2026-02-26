@@ -1,0 +1,31 @@
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Maven ###
+/logs
+target/
+
+### Eclipse ###
+*.classpath
+*.project
+*.settings/
+
+### Intellij ###
+*.iml
+*.ipr
+*.iws
+.idea/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### VS Code ###
+.vscode/
